@@ -1,0 +1,6 @@
+Report of highest rating :   
+---------------------------
+ name		id	rating
+1. Programming	15	8.5
+2. chemistry	8	7.375
+3. football	993	5.5
