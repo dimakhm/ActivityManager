@@ -1,6 +1,6 @@
 ## Activity Manager
 
-Creators: Or ganzian, Dima khmelev, Yehonatan Negbi, Orpaz Yossef
+Creators: Or ganzian, Dima khmelev, Yehonatan Negbi, Orpaz Josheph
 
 ## General info
 This project is our final project at 'Software engineering' course at HIT.
